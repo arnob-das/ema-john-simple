@@ -1,0 +1,23 @@
+.header {
+  text-align: center;
+}
+.logo {
+  height: 50px;
+}
+.header nav {
+  background-color: black;
+  text-align: center;
+  padding: 15px;
+}
+nav a {
+  padding: 20px;
+  margin: 20px;
+  text-decoration: none;
+  color: white;
+}
+
+nav a:hover {
+  background-color: white;
+  color: black;
+  transition: all 0.7s ease;
+}
